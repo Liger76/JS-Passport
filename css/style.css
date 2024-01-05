@@ -1,0 +1,17 @@
+body{
+    background-color: deepskyblue;
+}
+.container{
+     margin: 100px;
+     display: block;
+     justify-content: center;
+     text-align: center;
+.btn{
+    background-color: deepskyblue;
+    color: deeppink;
+    border-radius: 10px;
+}
+.lab2{
+    margin-left: 56px;
+
+}
